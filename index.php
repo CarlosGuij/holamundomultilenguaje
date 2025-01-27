@@ -36,7 +36,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
         button {
-            padding: 10px 21px;
+            padding: 10px 20px;
             font-size: 16px;
             cursor: pointer;
             border: none;
