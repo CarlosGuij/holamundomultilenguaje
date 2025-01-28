@@ -22,7 +22,7 @@ $result = $conn->query($sql);
 </head>
 <body>
     <h1>Listado de Películas</h1>
-    <a href="añadir.php">Añadir un película</a> 
+    <a href="añadir.php">Añadir una película</a> 
     <table border="1">
         <thead>
             <tr>
